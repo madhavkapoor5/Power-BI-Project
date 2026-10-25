@@ -1,8 +1,7 @@
-# Power-BI-Project
-
-E-Commerce Sales Analysis Dashboard | Power BI
+# E-Commerce Sales Analysis Dashboard | Power BI
 
 Project Overview
+
 This project presents an interactive E-Commerce Sales Analysis Dashboard developed using Microsoft Power BI Desktop. It transforms sales data into visual insights to help understand business performance, explore sales trends, and support data-driven decision-making.
 
 Objectives
