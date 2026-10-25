@@ -40,6 +40,3 @@ Key Learning Outcomes
 - Creating interactive dashboards in Power BI.
 - Presenting business data through visual reports.
 - Developing practical data analysis and business intelligence skills.
-
-Author
-Madhav Kapoor
