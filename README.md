@@ -26,6 +26,7 @@ Project Files
 - Dark-gradient.jpg: Image asset included in the project files.
  
 Dashboard Preview
+
 The dashboard preview is included in this repository. Open the preview image to see the report's visual layout.
 ![E-Commerce Sales Dashboard](./dashboard-preview.png)
 
