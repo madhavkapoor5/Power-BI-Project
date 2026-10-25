@@ -20,13 +20,12 @@ Tools Used
 
 Project Files
 
-         File           |                      Description
-Power BI Project (.pbix)| Complete interactive dashboard and report
-Orders                  | Order-related source dataset
-Details                 | Additional source dataset used for analysis
-Dashboard Preview       | Screenshot of the completed dashboard
-Dark-gradient.jpg       | Additional image asset included in the project repository
-
+- Power BI Dashboard (.pbix): The complete interactive E-Commerce Sales Analysis Dashboard created using Power BI Desktop.
+- Orders Dataset: Contains order-related data used for the analysis.
+- Details Dataset: Contains additional sales-related data used to build the dashboard.
+- Dashboard Preview: Screenshot of the completed Power BI dashboard for a quick visual overview.
+- Dark-gradient.jpg: Image asset included in the project files.
+ 
 Dashboard Preview
 The dashboard preview is included in this repository. Open the preview image to see the report's visual layout.
 ![E-Commerce Sales Dashboard](./dashboard-preview.png)
